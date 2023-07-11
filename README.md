@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sookoloski
-- 🌱 I’m currently learning python, reactive.js and Java
+- 🌱 I’m currently learning Java, Spring Boot, Docker, Gradle, Kafka, MongoDB and whatever more that shows up to me.
 - 📫 How to reach me LinkedIn.com/osni-sokoloski
 
 <!---
